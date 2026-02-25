@@ -1,4 +1,4 @@
-name: Build and Deploy Flask App to Azure Web App 
+name: Build and Deploy Flask App to Azure Web App labuser18-webapp
 on:
   push:
     branches:
